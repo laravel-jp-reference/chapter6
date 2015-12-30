@@ -6,7 +6,8 @@
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/laravel-jp-reference/chapter6/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-jp-reference/chapter6/?branch=master)
 [![SensioLabs Insight](https://img.shields.io/sensiolabs/i/49d68b09-33d6-40c4-92a8-b6b2a2b58422.svg?style=flat-square)](https://insight.sensiolabs.com/projects/49d68b09-33d6-40c4-92a8-b6b2a2b58422)
 
-[![GitHub license](https://img.shields.io/github/license/laravel-jp-reference/chapter6.svg?style=flat-square)]()
+[![GitHub license](https://img.shields.io/github/license/laravel-jp-reference/chapter6.svg?style=flat-square)](https://github.com/laravel-jp-reference/chapter6/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/laravel--jp--reference-chapter6-orange.svg?style=flat-square)](https://github.com/laravel-jp-reference/chapter6)
 
 ## このリポジトリについて
 このリポジトリはImpress社から発行されている、  
